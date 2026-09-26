@@ -4,7 +4,7 @@ cask "cardinal" do
 
   url "https://github.com/seedds/cardinal/releases/download/v#{version}/Cardinal_#{version}_aarch64.dmg"
   name "Cardinal"
-  desc "File search application for macOS"
+  desc "File search application"
   homepage "https://github.com/seedds/cardinal"
 
   depends_on arch: :arm64
