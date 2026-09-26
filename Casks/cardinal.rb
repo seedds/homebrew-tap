@@ -1,6 +1,6 @@
 cask "cardinal" do
-  version "0.1.24"
-  sha256 "286c38fd9b859885621c5ec44cca1724d27ee6407918b179f987907e96f0e438"
+  version "0.1.25"
+  sha256 "f701e2d1928e7857afe1db1012745d2b3f8f4d2bea596e590e408ad54eba260f"
 
   url "https://github.com/seedds/cardinal/releases/download/v#{version}/Cardinal_#{version}_aarch64.dmg"
   name "Cardinal"
