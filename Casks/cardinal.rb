@@ -1,6 +1,6 @@
 cask "cardinal" do
-  version "0.1.34"
-  sha256 "c18f573e5c2d44e5c672a072123f130ea9f86cae7d3a1cf6384649863ab766c8"
+  version "0.1.35"
+  sha256 "1135fb15e58623787a096553ecd4e5e19c3a3d79c6d5935b6961d35fb39c80e9"
 
   url "https://github.com/seedds/cardinal_native/releases/download/v#{version}/Cardinal-Native-#{version}-arm64.dmg"
   name "Cardinal Native"
