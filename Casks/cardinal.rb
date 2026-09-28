@@ -1,6 +1,6 @@
 cask "cardinal" do
-  version "0.1.44"
-  sha256 "95ef0c8582aa429ee16cc572b8a77f2f6971bcbba24b4545eb3cb3f93ec55fbd"
+  version "0.1.45"
+  sha256 "dbe0206a611f3ef1e45a7d14b2ca08ebdebc0510d46544ff4ad2bf2777f9135a"
 
   url "https://github.com/seedds/EverythingMac/releases/download/v#{version}/EverythingMac-#{version}-arm64.dmg"
   name "EverythingMac"
