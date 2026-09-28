@@ -1,14 +1,14 @@
 cask "cardinal" do
-  version "0.1.42"
-  sha256 "18b848550a929fada726e277fbace6f1c375f7434e745862aaca21696c983cc9"
+  version "0.1.43"
+  sha256 "649880b4a78473964f222071ec0b95d126f2f3706d742953f7b656064fe34782"
 
-  url "https://github.com/seedds/cardinal_native/releases/download/v#{version}/Cardinal-Native-#{version}-arm64.dmg"
-  name "Cardinal Native"
+  url "https://github.com/seedds/cardinal_native/releases/download/v#{version}/EverythingMac-#{version}-arm64.dmg"
+  name "EverythingMac"
   desc "Native file search application"
   homepage "https://github.com/seedds/cardinal_native"
 
   depends_on arch: :arm64
   depends_on macos: :monterey
 
-  app "Cardinal Native.app"
+  app "EverythingMac.app"
 end
