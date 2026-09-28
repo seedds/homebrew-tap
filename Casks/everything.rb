@@ -1,4 +1,4 @@
-cask "cardinal" do
+cask "everything" do
   version "0.1.48"
   sha256 "43a9d1412c2c180ebec989ba55b29f462085ddd0a851ed0b7cc03485fa4c5489"
 
