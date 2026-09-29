@@ -22,9 +22,9 @@ brew update
 brew upgrade --cask seedds/tap/everything
 ```
 
-The cask was renamed from `cardinal` to `everything`. Homebrew's rename mapping
-allows existing installations to migrate. The app remains `EverythingMac.app`;
-its bundle identifier, preferences, and index location are unchanged.
+The app is `EverythingMac.app`. New installations start with empty include and
+ignore paths and no terminal application selected. Older apps' preferences and
+indexes are not imported.
 Quit the previous app before upgrading. Grant EverythingMac Full Disk Access if needed.
 
 ## Publish an update
