@@ -1,6 +1,6 @@
 cask "everything" do
-  version "0.1.67"
-  sha256 "f89c3baa651ff477bcb7a97b6bfd46dfc44db3e489660bd66a0c9a833791a1ec"
+  version "0.1.68"
+  sha256 "d7e7ab48e37b8686df7576577e44325793be9f48e92458f5650dabeca415bb93"
 
   url "https://github.com/seedds/EverythingMac/releases/download/v#{version}/EverythingMac-#{version}-arm64.dmg"
   name "EverythingMac"
